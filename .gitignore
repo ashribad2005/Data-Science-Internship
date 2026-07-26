@@ -1,0 +1,9 @@
+# Ignore large datasets
+datasets/US_Accidents_March23.csv
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
