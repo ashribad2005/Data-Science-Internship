@@ -167,7 +167,7 @@ Analyze accident trends using the US Accidents dataset.
 
 ### Box Plot
 
-![Box Plot](images/Task1/BoxPlot.png)
+![Box Plot](images/Task1/Box Plot.png)
 
 ### Correlation Heatmap
 
