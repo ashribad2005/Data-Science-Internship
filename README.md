@@ -179,7 +179,7 @@ Analyze accident trends using the US Accidents dataset.
 
 ### Scatter Plot
 
-![Scatter Plot](images/Task2/ScatterPlot.png)
+![Scatter Plot](images/Task2/Scatterplot.png)
 
 ### Correlation Heatmap
 
