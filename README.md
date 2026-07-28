@@ -155,6 +155,60 @@ Analyze accident trends using the US Accidents dataset.
 
 ---
 
+# 📸 Project Outputs
+
+---
+
+## 📊 Task 1 – Data Visualization
+
+### Histogram
+
+![Histogram](images/Task1/Histogram.png)
+
+### Box Plot
+
+![Box Plot](images/Task1/BoxPlot.png)
+
+### Correlation Heatmap
+
+![Heatmap](images/Task1/Heatmap.png)
+
+---
+
+## 🧹 Task 2 – Data Cleaning & EDA
+
+### Scatter Plot
+
+![Scatter Plot](images/Task2/ScatterPlot.png)
+
+### Correlation Heatmap
+
+![Correlation Heatmap](images/Task2/CorrelationHeatmap.png)
+
+---
+
+## 🌳 Task 3 – Decision Tree Classification
+
+### Decision Tree Visualization
+
+![Decision Tree](images/Task3/DecisionTree.png)
+
+---
+
+## 🚗 Task 4 – US Accidents Analysis
+
+### Accident Severity Distribution
+
+![Severity Distribution](images/Task4/SeverityDistribution.png)
+
+### Accidents by Hour
+
+![Accidents by Hour](images/Task4/AccidentsByHour.png)
+
+### Weather Condition Analysis
+
+![Weather Conditions](images/Task4/WeatherConditions.png)
+
 # 📊 Libraries Used
 
 ```python
