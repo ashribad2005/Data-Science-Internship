@@ -4,6 +4,27 @@ A collection of data science internship tasks completed using Python, covering d
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-green)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?logo=scikitlearn)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red?logo=git)
+
+## 📑 Table of Contents
+
+- Project Overview
+- Technologies Used
+- Project Structure
+- Tasks Completed
+- Project Outputs
+- Learning Outcomes
+- Future Improvements
+- Author
+
+
 ## 📌 Project Overview
 
 This repository contains the work completed during my **1-Month Data Science Internship**. The project demonstrates the complete data science workflow, including:
@@ -16,6 +37,16 @@ This repository contains the work completed during my **1-Month Data Science Int
 - Real-world Data Analysis
 
 ---
+
+## ⭐ Project Highlights
+
+- Completed four end-to-end data science tasks
+- Performed Exploratory Data Analysis (EDA)
+- Built a Decision Tree Classifier
+- Achieved approximately **87% model accuracy**
+- Analyzed a real-world dataset containing thousands of accident records
+- Used Git and GitHub for version control
+
 
 ## 🛠 Technologies Used
 
@@ -278,6 +309,18 @@ Through this internship, I gained practical experience in:
 - Git & GitHub Version Control
 - Python for Data Science
 
+## 💡 What I Learned
+
+During this internship, I gained practical experience in:
+
+- Data preprocessing and cleaning
+- Exploratory Data Analysis (EDA)
+- Data visualization using Matplotlib and Seaborn
+- Building Decision Tree models using Scikit-learn
+- Evaluating machine learning models
+- Version control using Git and GitHub
+- Organizing and documenting projects professionally
+  
 ---
 
 # 🚀 Future Improvements
@@ -289,12 +332,13 @@ Through this internship, I gained practical experience in:
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 **Ashribad**
 
-GitHub: https://github.com/ashribad2005
+Computer Science Engineering Student
 
----
+GitHub:
+https://github.com/ashribad2005
 
-## ⭐ If you found this project useful, consider giving it a star!
+⭐ If you found this project helpful, consider giving it a star.
